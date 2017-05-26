@@ -18,7 +18,7 @@ email: kim.schlesinger@galvanize.com
 description: > # this means to ignore newlines until "baseurl:"
   A weekly podcast about best practices in technical education.
 
-baseurl: "/_sites" # the subpath of your site, e.g. /blog
+baseurl: "/tech-ed-blog" # the subpath of your site, e.g. /blog
 url: "https://coloradokim.github.io/tech-ed-blog/"
 twitter_username: colorado_kim
 github_username:  BrooksPatton
