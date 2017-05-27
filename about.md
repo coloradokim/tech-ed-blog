@@ -10,7 +10,7 @@ permalink: /about/
 
 Brooks is a Web Developer with over ten years of IT experience, including his work as a contractor at the NASA Advanced Supercomputing center. He has since taken those skills to make web applications, games, and automating the boring things in his life. As Brooks has always been passionate about teaching and mentoring he decided to make the jump to full-time instructor where he can help his students become who they want to be.
 
-## Kim Schlesinger
+# Kim Schlesinger
 
 ![Kim Schlesinger](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/594/Kim.jpg)
 
