@@ -18,8 +18,8 @@ email: kim.schlesinger@galvanize.com
 description: > # this means to ignore newlines until "baseurl:"
   A weekly podcast about best practices in technical education.
 
-baseurl: "/tech-ed-blog" 
-url: "https://coloradokim.github.io"
+baseurl: "/tech-ed-blog"
+url: "https://brookspatton.github.io"
 twitter_username: colorado_kim
 github_username:  BrooksPatton
 
